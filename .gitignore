@@ -1,0 +1,7 @@
+.home/
+.cache_valid
+.git-credentials
+node_modules/
+dist/
+.next/
+*.log
